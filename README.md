@@ -18,7 +18,7 @@ Este sitio web ha sido desarrollado utilizando las siguientes tecnologías:
 - CSS3
 - JavaScript
 - PHP
-- 
+  
 Si tienes alguna pregunta, comentario o deseas colaborar en proyectos, no dudes en ponerte en contacto conmigo:
 
 - Email: [gianw4gner@gmail.com](mailto:gianw4gner@gmail.com)
